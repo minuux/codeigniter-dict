@@ -1,0 +1,15 @@
+{
+    "name": "minuux/codeigniter-dict",
+    "type": "codeigniter-library",
+    "description": "codeigniter-dict",
+    "authors": [
+        {
+            "name": "minuux",
+            "email": "minuux@gmail.com"
+        }
+    ],
+    "require": {
+        "minuux/simpledict": "dev-master",
+        "minuux/codeigniter-installers": "^2.0.0"
+    }
+}
